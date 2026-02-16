@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-02-16T11:49:47.923Z",
+  "passRate": 1,
+  "results": [
+    {
+      "id": "vs0_source_create_read",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "id": "vs1_ingest_search",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "id": "vs2_vs3_candidate_application_match",
+      "passed": true,
+      "errors": []
+    },
+    {
+      "id": "vs4_ops_audit",
+      "passed": true,
+      "errors": []
+    }
+  ]
+}
